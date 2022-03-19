@@ -10,4 +10,4 @@ The map is stored in file called *map.txt* stored in the same directory as *main
 
 To easily make mazes, you can use https://www.dcode.fr/maze-generator. Make sure that the *Path Design* option is set to empty space and *Display* option is set to single character.
 
-The *Samples* folder contains various sample maps with different sizes and designs. If using them, make sure to drag the file to the root directory and rename it to *map.txt*.
+The *Samples* folder contains various sample maps with different sizes and designs. If using them, make sure to drag the file to the root directory and rename it to *map.txt*. Feel free to move the start and end points to see different paths formed.
