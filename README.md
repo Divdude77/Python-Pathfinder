@@ -1,6 +1,6 @@
 # Python-Pathfinder
 
-A pathfinding algorithm I designed completely by myself using Python.
+A pathfinding algorithm I designed completely by myself using Python!
 ### Note: 
 This is NOT a shortest pathfinding algorithm, just a correct path. I am working on finding the shortest path, and hope to add it soon.
 
