@@ -144,5 +144,5 @@ if found:
     
     for i in moves[1:-1]:
         map[i[-1]] = map[i[-1]][:i[0]] + "·" + map[i[-1]][i[0]+1:]
-    print("\n".join(map))
+    # print("\n".join(map))
     # To print drawn path solution: print("\n".join(map))
