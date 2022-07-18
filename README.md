@@ -1,8 +1,9 @@
 # Python-Pathfinder
 
-A pathfinding algorithm I designed completely by myself using Python!
+A pathfinding algorithm I designed completely by myself using Python! Use it to solve complex mazes!
+
 ### Note: 
-This is NOT a shortest pathfinding algorithm, just a correct path. I am working on finding the shortest path, and hope to add it soon.
+This is NOT a shortest pathfinding algorithm, just a correct path.
 
 ## USAGE:
 
